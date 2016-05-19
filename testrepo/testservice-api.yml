@@ -1,0 +1,4 @@
+foo:
+  bar: "some-specific"
+testgroup:
+  name: "remote-name"

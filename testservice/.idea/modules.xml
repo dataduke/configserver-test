@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testservice.iml" filepath="$PROJECT_DIR$/.idea/modules/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testservice_main.iml" group="testservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testservice_test.iml" group="testservice" />
+    </modules>
+  </component>
+</project>

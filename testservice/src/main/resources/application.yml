@@ -1,0 +1,7 @@
+foo:
+  bar: "some"
+  buz: "some"
+  joe: "some"
+testgroup:
+  name: "name"
+  description: "description"
