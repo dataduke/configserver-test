@@ -95,4 +95,4 @@ Response:
 
 The environment variable just overrides the local property `foo.joe` but not the property `foo.bar` that originates from the config server repository.
 
-Is this a bug? Raised SO question - http://stackoverflow.com/questions/37316835/spring-cloud-config-server-priority-of-environment-variables
+See SO question - http://stackoverflow.com/questions/37316835/spring-cloud-config-server-priority-of-environment-variables
