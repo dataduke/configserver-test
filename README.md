@@ -1,4 +1,4 @@
-# Testing spring cloud config property override
+# Testing spring cloud config property precedence
 
 We have a simple config client `testservice` that has two local configuration files in `src/main/resources`
 
